@@ -6,6 +6,11 @@ Regards : Multy™️ Support
 
 `Support Server`  --> https://dsc.gg/multy 
 
+
+`Invite our bots` 
+
+`Multy Bot`
+
 ```yaml
-Invite our bots 
+https://dsc.gg/multy-invite
 ```

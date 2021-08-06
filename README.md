@@ -7,10 +7,28 @@ Regards : Multy™️ Support
 `Support Server`  --> https://dsc.gg/multy 
 
 
-`Invite our bots` 
+!~Invite our bots~!
 
-`Multy Bot`
+`1. Multy Bot`
 
 ```yaml
 https://dsc.gg/multy-invite
+```
+
+`2. Multy Staging Bot`
+
+```yaml
+https://dsc.gg/staging-1
+```
+
+`3. Multy Staging 2 Bot`
+
+```yaml
+https://dsc.gg/staging-2
+```
+
+`4. Multy Staging 3 Bot`
+
+```yaml
+https://dsc.gg/staging-1
 ```

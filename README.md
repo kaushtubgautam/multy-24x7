@@ -34,3 +34,8 @@ https://dsc.gg/staging-2
 ```yaml
 https://dsc.gg/staging-1
 ```
+
+
+##Credits 
+
+~Kaushtub Gautam ( Discord id -> `AQUAKG#4077`)

@@ -5,3 +5,7 @@ Thanks
 Regards : Multy™️ Support
 
 `Support Server`  --> https://dsc.gg/multy 
+
+```yaml
+Invite our bots 
+```

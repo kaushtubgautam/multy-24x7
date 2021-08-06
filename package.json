@@ -1,5 +1,5 @@
 {
-    "name": "discord-24x7-music",
+    "name": "MULTY-24x7",
     "version": "1.0.0",
     "description": "Host your own music streaming bot that stays in a channel forever and streams music!",
     "main": "live.jar",
@@ -15,7 +15,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/navaneethkm004/discord-24x7-music.git"
+      "url": "git+https://github.com/kaushtubgautam/multy-24x7"
     },
     "keywords": [
       "discord",
@@ -29,8 +29,8 @@
     "author": "Navaneeth K M",
     "license": "GPL-3.0",
     "bugs": {
-      "url": "https://github.com/navaneethkm004/discord-24x7-music/issues"
+      "url": "https://github.com/kaushtubgautam/multy-24x7"
     },
-    "homepage": "https://github.com/navaneethkm004/discord-24x7-music#readme"
+    "homepage": "https://github.com/kaushtubgautam/multy-24x7"
   }
   

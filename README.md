@@ -4,8 +4,10 @@
 Thanks
 Regards : Multy™️ Support
 
-`Support Server`  --> https://dsc.gg/multy 
-
+`Support Server`  --> 
+```yaml
+https://dsc.gg/multy 
+```
 
 ---->    !Invite our bots!    <----
 

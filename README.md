@@ -42,6 +42,6 @@ https://dsc.gg/multy-matrix-invite
 ```
 
  
-###Credits 
+<h4> CREDITS </h4>
 
-~Kaushtub Gautam ( Discord id -> `AQUAKG#4077`)
+<h6>~Kaushtub Gautam ( Discord id -> `AQUAKG#4077`)</h6>

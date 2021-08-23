@@ -1,8 +1,8 @@
-!! SIMPLE JAVA MUSIC BOT WHICH JOINS VC FOR 24x7 AND PLAYS MUSIC ~ BUT ONLY FOR 1 PARTICULAR SERVER !!
+<h1>!! SIMPLE JAVA MUSIC BOT WHICH JOINS VC FOR 24x7 AND PLAYS MUSIC ~ BUT ONLY FOR 1 PARTICULAR SERVER !!</h1>
 
 
 Thanks
-Regards : Multy™️ Support
+<h6>Regards : Multy™️ Support</h6>
 
 `Support Server`  --> 
 ```yaml
@@ -41,7 +41,7 @@ https://dsc.gg/staging-1
 https://dsc.gg/multy-matrix-invite
 ```
 
-
+ 
 ##Credits 
 
 ~Kaushtub Gautam ( Discord id -> `AQUAKG#4077`)
